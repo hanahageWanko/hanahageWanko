@@ -5,7 +5,9 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hanahageWanko&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hanahageWanko&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p>
+<img alt="github stats" height="150px" src="https://github-profile-trophy.vercel.app/?username=hanahageWanko&column=7" />
+</p>
 
 
 <!--
