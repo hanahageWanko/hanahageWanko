@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanahageWanko&layout=compact" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hanahageWanko&show_icons=true" />
+  <img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanahageWanko&layout=compact" />
+  <img alt="github stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=hanahageWanko&show_icons=true" />
 </p>
 
 <p>
-<img alt="github stats" height="150px" src="https://github-profile-trophy.vercel.app/?username=hanahageWanko&column=7" />
+<img alt="github stats" height="180px" src="https://github-profile-trophy.vercel.app/?username=hanahageWanko&column=7" />
 </p>
 
 
